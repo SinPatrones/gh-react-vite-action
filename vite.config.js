@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://SinPatrones.github.io/',
+  base: 'https://sinpatrones.github.io/gh-react-vite-action/',
   plugins: [react()]
 })
